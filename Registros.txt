@@ -1,0 +1,4 @@
+
+Users{name=Camila, lastName=Uribe, age=18, type=EMPLOYEE, linkedAccount=null, haveAcosigner=true}
+Users{name=Camila, lastName=Uribe, age=18, type=EMPLOYEE, linkedAccount=null, haveAcosigner=true}
+Users{name=Camila, lastName=Uribe, age=18, type=EMPLOYEE, linkedAccount=null, haveAcosigner=true}
